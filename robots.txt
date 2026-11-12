@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://paniset.github.io/sitemap.xml
+Sitemap: https://paniset.github.io/turno-facil/sitemap.xml
+Sitemap: https://paniset.github.io/kit-de-vuelta/sitemap.xml
+Sitemap: https://paniset.github.io/pulso-local-madrid/sitemap.xml
