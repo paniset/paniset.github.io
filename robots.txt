@@ -5,3 +5,5 @@ Sitemap: https://paniset.github.io/turno-facil/sitemap.xml
 Sitemap: https://paniset.github.io/kit-de-vuelta/sitemap.xml
 Sitemap: https://paniset.github.io/pulso-local-madrid/sitemap.xml
 Sitemap: https://paniset.github.io/mostrador/sitemap.xml
+Sitemap: https://paniset.github.io/empleada-hogar/sitemap.xml
+Sitemap: https://paniset.github.io/nacionalidad-residencia/sitemap.xml
